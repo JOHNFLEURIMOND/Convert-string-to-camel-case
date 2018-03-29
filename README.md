@@ -23,8 +23,8 @@ Test.assertEquals(toCamelCase("A-B-C"), "ABC", "toCamelCase('A-B-C') did not ret
 
 ​
 ## How It's Made
-.indexOf(),arrays, .split(), for(loop), .slice(),.toUpperCase()
-
+String.prototype.split(), Array.prototype.reverse(),Array.prototype.join(),String.prototype.slice(),String.prototype,
+.toUpperCase().
 
 ## portfolio:
 
