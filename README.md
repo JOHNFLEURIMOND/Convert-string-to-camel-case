@@ -1,4 +1,4 @@
-![Codewars](img/CamelCase.png)
+![Codewars](img/camelCase.png)
 
 # Kata's For Breakfast, Lunch, and Dinner!
 Complete the method/function so that it converts dash/underscore delimited words into camel casing. The first word within the output should be capitalized only if the original word was capitalized.
@@ -24,7 +24,8 @@ Test.assertEquals(toCamelCase("A-B-C"), "ABC", "toCamelCase('A-B-C') did not ret
 ​
 ## How It's Made
 String.prototype.split(), Array.prototype.reverse(),Array.prototype.join(),String.prototype.slice(),String.prototype,
-.toUpperCase().
+.toUpperCase(), & The for statement
+
 
 ## portfolio:
 
